@@ -5,7 +5,7 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 
 # Title of the app
-st.title("Clustering Visualization with Silhouette Scores")
+st.title("Clustering Visualization with Silhouette Scores 123")
 
 # Upload CSV data
 uploaded_file = st.file_uploader("Upload your CSV file", type=["csv"])
